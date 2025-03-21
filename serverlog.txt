@@ -1,0 +1,101 @@
+[2025-02-27 14:04:00] INFO: User frank_m logged in from 104.166.96.100
+[2025-02-27 14:05:00] WARNING: High CPU usage detected
+[2025-02-27 14:09:00] INFO: User grace_l logged out from N/A
+[2025-02-27 14:07:00] WARNING: Potential security breach detected
+[2025-02-27 14:10:00] INFO: User bob_smith logged in from 145.238.96.59
+[2025-02-27 14:07:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:06:00] INFO: User grace_l logged out from N/A
+[2025-02-27 14:05:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:08:00] WARNING: Network latency increased
+[2025-02-27 14:08:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:03:00] WARNING: Low available memory
+[2025-02-27 14:10:00] WARNING: Network latency increased
+[2025-02-27 14:05:00] INFO: User emma_w logged out from N/A
+[2025-02-27 14:06:00] INFO: User grace_l logged out from N/A
+[2025-02-27 14:10:00] ERROR: Service timeout occurred
+[2025-02-27 14:01:00] ERROR: User authentication failed
+[2025-02-27 14:06:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:07:00] INFO: User emma_w logged in from 223.146.166.141
+[2025-02-27 14:04:00] WARNING: Low available memory
+[2025-02-27 14:01:00] WARNING: Network latency increased
+[2025-02-27 14:03:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:09:00] WARNING: Low available memory
+[2025-02-27 14:01:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:04:00] ERROR: User authentication failed
+[2025-02-27 14:05:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:06:00] WARNING: High CPU usage detected
+[2025-02-27 14:01:00] WARNING: High CPU usage detected
+[2025-02-27 14:09:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:10:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:04:00] INFO: User bob_smith logged out from N/A
+[2025-02-27 14:02:00] WARNING: Low available memory
+[2025-02-27 14:04:00] ERROR: Service timeout occurred
+[2025-02-27 14:06:00] INFO: User frank_m logged in from 202.183.143.227
+[2025-02-27 14:08:00] WARNING: Disk usage at 90%
+[2025-02-27 14:02:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:08:00] INFO: User charlie logged in from 235.183.226.135
+[2025-02-27 14:08:00] WARNING: Potential security breach detected
+[2025-02-27 14:04:00] INFO: User john_doe logged out from N/A
+[2025-02-27 14:07:00] INFO: User emma_w logged out from N/A
+[2025-02-27 14:01:00] WARNING: Network latency increased
+[2025-02-27 14:09:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:06:00] ERROR: Memory allocation error
+[2025-02-27 14:03:00] INFO: User emma_w logged in from 124.229.58.100
+[2025-02-27 14:07:00] INFO: User bob_smith logged out from N/A
+[2025-02-27 14:02:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:03:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:06:00] INFO: User charlie logged in from 205.203.1.228
+[2025-02-27 14:06:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:05:00] INFO: User charlie logged out from N/A
+[2025-02-27 14:07:00] WARNING: Potential security breach detected
+[2025-02-27 14:01:00] WARNING: Potential security breach detected
+[2025-02-27 14:02:00] INFO: User derek_t logged out from N/A
+[2025-02-27 14:05:00] ERROR: Memory allocation error
+[2025-02-27 14:01:00] WARNING: High CPU usage detected
+[2025-02-27 14:06:00] INFO: User john_doe logged in from 255.144.72.2
+[2025-02-27 14:09:00] WARNING: Potential security breach detected
+[2025-02-27 14:10:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:02:00] WARNING: High CPU usage detected
+[2025-02-27 14:05:00] INFO: User emma_w logged in from 211.146.175.155
+[2025-02-27 14:03:00] ERROR: Service timeout occurred
+[2025-02-27 14:08:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:08:00] INFO: User grace_l logged in from 212.208.79.3
+[2025-02-27 14:02:00] WARNING: Network latency increased
+[2025-02-27 14:08:00] ERROR: User authentication failed
+[2025-02-27 14:08:00] INFO: User charlie logged in from 162.242.33.229
+[2025-02-27 14:05:00] WARNING: Unusual activity detected in system logs
+[2025-02-27 14:09:00] WARNING: High CPU usage detected
+[2025-02-27 14:03:00] WARNING: High CPU usage detected
+[2025-02-27 14:02:00] ERROR: Database connection failed for user admin
+[2025-02-27 14:05:00] ERROR: Database connection failed for user admin
+[2025-02-27 14:07:00] INFO: User bob_smith logged in from 130.116.175.219
+[2025-02-27 14:03:00] ERROR: User authentication failed
+[2025-02-27 14:04:00] WARNING: Potential security breach detected
+[2025-02-27 14:07:00] ERROR: Memory allocation error
+[2025-02-27 14:07:00] INFO: User charlie logged in from 178.210.173.58
+[2025-02-27 14:09:00] INFO: User alice logged in from 207.101.42.77
+[2025-02-27 14:08:00] INFO: User derek_t logged out from N/A
+[2025-02-27 14:01:00] INFO: User frank_m logged in from 235.203.40.221
+[2025-02-27 14:01:00] INFO: User derek_t logged in from 103.218.109.180
+[2025-02-27 14:08:00] WARNING: Network latency increased
+[2025-02-27 14:06:00] INFO: User grace_l logged out from N/A
+[2025-02-27 14:07:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:01:00] WARNING: Low available memory
+[2025-02-27 14:04:00] INFO: User bob_smith logged in from 136.168.110.13
+[2025-02-27 14:05:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:02:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:02:00] WARNING: Network latency increased
+[2025-02-27 14:05:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:01:00] WARNING: Low available memory
+[2025-02-27 14:04:00] ERROR: Memory allocation error
+[2025-02-27 14:09:00] WARNING: Low available memory
+[2025-02-27 14:02:00] ERROR: User authentication failed
+[2025-02-27 14:08:00] INFO: User alice logged in from 223.135.37.55
+[2025-02-27 14:05:00] WARNING: Disk usage at 90%
+[2025-02-27 14:03:00] INFO: User alice logged in from 110.180.58.196
+[2025-02-27 14:01:00] ERROR: Database connection failed for user admin
+[2025-02-27 14:03:00] ERROR: Permission denied while accessing /var/log
+[2025-02-27 14:07:00] ERROR: Failed to open file config.txt
+[2025-02-27 14:04:00] INFO: User emma_w logged out from N/A
+[2025-02-27 14:03:00] INFO: User bob_smith logged out from N/A
+
